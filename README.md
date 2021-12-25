@@ -1,4 +1,4 @@
-# pwn-owasp-juice-shop
+# PWN OWASP Juice Shop
 
 Collection of scripts to explore vulnerabilities of OWASP Juice Shop
 
